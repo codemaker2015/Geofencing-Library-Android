@@ -1,8 +1,6 @@
 Smart Location Library
 ======================
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Smart%20Location%20Library-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1321) [![Build Status](https://travis-ci.org/mrmans0n/smart-location-lib.svg?branch=master)](https://travis-ci.org/mrmans0n/smart-location-lib)
-
 Android library project that intends to simplify the usage of location providers and activity recognition with a nice fluid API.
 
 **Supported Android versions**: Android 4.0+
@@ -273,37 +271,3 @@ If you follow the suggestion provided, you can get rid of it easily. Just change
 ```xml
 <meta-data tools:replace="android:value" android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
 ```
-
-Contributing
-------------
-Forks, patches and other feedback are welcome.
-
-Creators
---------
-
-Nacho López @mrmans0n
-
-License
--------
-
-The MIT License (MIT)
-
-Copyright (c) 2013-2017 Nacho Lopez
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
