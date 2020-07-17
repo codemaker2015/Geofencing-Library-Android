@@ -1,0 +1,4 @@
+include ':sample'
+rootProject.name = 'SmartLocation'
+include 'library'
+include 'rxjava'
